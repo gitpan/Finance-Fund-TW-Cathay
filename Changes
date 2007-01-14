@@ -1,0 +1,6 @@
+Revision history for Perl extension Finance::Fund::TW::Cathay.
+
+0.01  Sun Jan 14 20:14:27 2007
+	- original version; created by h2xs 1.23 with options
+		-v 0.01 -A -n Finance::Fund::TW::Cathay
+
